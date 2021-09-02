@@ -6,6 +6,9 @@
 ### Project Owner
 Renad Filfilan
 
+### Project Owner Email
+Renadfilfilan@hotmail.com
+
 ### Project Title
 Bikeshare
 
