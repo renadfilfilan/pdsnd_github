@@ -16,3 +16,4 @@ New York City.csv
 
 ### Credits
 Udacity US Bikeshare Data
+Divvy is a bicycle sharing system in the City of Chicago
