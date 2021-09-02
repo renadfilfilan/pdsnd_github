@@ -7,7 +7,7 @@
 Bikeshare
 
 ### Description
-Bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
+An interactive Bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
 
 ### Files used
 Chicago.csv
